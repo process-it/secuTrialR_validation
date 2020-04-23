@@ -1,0 +1,117 @@
+"title","number","body","created_at","updated_at","html_url","issue_labels"
+"A set of tests 3",18,"**Test objectives:**  
+Many test because high risk
+
+**Test type 1:**  
+
+**Test type 2:**  
+
+**Test type n:**  
+
+**Technical test source:** [test-file_name.R](www.link_to_my_file.com)
+
+**Linkage to related documents:**
+User requirement: #16 
+Functional specification: #17  
+
+","2020-01-27T15:22:19Z","2020-01-27T15:22:19Z","https://github.com/PatrickRWright/R_package_validation/issues/18","Test"
+"Critical functionality 3",17,"**Description:**  
+Some function that is very critical.
+
+**Risk assessment:**
+For each select one of: 1 = low, 2 = medium, 3 = high
+Explain each selection briefly.
+**Severity**: 3
+**Probability**: 3
+**Detectability**: 3
+
+**Linkage to related documents:**  
+User requirement: #16 
+Test: #18
+
+","2020-01-27T15:21:30Z","2020-01-27T15:22:37Z","https://github.com/PatrickRWright/R_package_validation/issues/17","Functional specification, High risk"
+"Dummy usr req 3",16,"**Description:**  
+As a user I can do something related to several functional specs.
+
+**Linkage to related documents:**  
+Functional specification: #10 #14 #17 
+Test: #12 #15 #18 
+
+","2020-01-27T15:19:53Z","2020-01-27T15:22:55Z","https://github.com/PatrickRWright/R_package_validation/issues/16","User requirement"
+"Dummy tests 2",15,"**Test objectives:**  
+Do a few more tests because the risk is medium.
+
+**Test type 1:**  
+Here we test yada yada
+
+**Test type 2:**  
+Here we test yada yada
+
+**Test type n:**  
+Here we test yada yada
+
+**Technical test source:** [test-file_name.R](www.link_to_my_file.com)
+
+**Linkage to related documents:**
+User requirement: #13 
+Functional specification: #14 
+
+","2020-01-27T15:16:21Z","2020-01-27T15:17:07Z","https://github.com/PatrickRWright/R_package_validation/issues/15","Test"
+"Dummy Functional specification 2",14,"**Description:**  
+A very specific description.
+
+**Risk assessment:**
+For each select one of: 1 = low, 2 = medium, 3 = high
+Explain each selection briefly.
+**Severity**: 2
+**Probability**: 2
+**Detectability**: 2
+
+**Linkage to related documents:**  
+User requirement: #13 
+Test: #15 
+
+","2020-01-27T15:14:48Z","2020-01-27T15:17:56Z","https://github.com/PatrickRWright/R_package_validation/issues/14","Functional specification, Medium risk"
+"Dummy user requirement 2",13,"**Description:**  
+As a user I can...
+
+**Linkage to related documents:**  
+Functional specification:  #14 
+Test: #15 
+
+","2020-01-27T15:14:28Z","2020-01-27T15:18:28Z","https://github.com/PatrickRWright/R_package_validation/issues/13","User requirement"
+"Dummy tests 1",12,"**Test objectives:**  
+Make sure that func. spec. 1 is doing what it shoud
+
+**A simple test because risk is low:**  
+
+**Technical test source:** [test-file_name.R](www.link_to_my_file.com)
+
+**Linkage to related documents:**
+User requirement: #10 
+Functional specification: #11 
+
+","2020-01-27T15:13:01Z","2020-01-27T15:13:01Z","https://github.com/PatrickRWright/R_package_validation/issues/12","Test"
+"Dummy functional specification 1",11,"**Description:**  
+This relates to...
+
+**Risk assessment:**
+For each select one of: 1 = low, 2 = medium, 3 = high
+Explain each selection briefly.
+**Severity**: 1
+**Probability**: 2
+**Detectability**: 1
+
+**Linkage to related documents:**  
+User requirement: #10 
+Test: #12 
+
+","2020-01-27T15:11:55Z","2020-01-27T15:13:55Z","https://github.com/PatrickRWright/R_package_validation/issues/11","Functional specification, Low risk"
+"Dummy user requirement 1",10,"**Description:**  
+As a user I can do something.
+
+**Linkage to related documents:**  
+Functional specification: #11 
+Test: #12 
+
+","2020-01-27T15:09:41Z","2020-01-27T15:13:37Z","https://github.com/PatrickRWright/R_package_validation/issues/10","User requirement"
